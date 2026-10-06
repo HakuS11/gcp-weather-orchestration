@@ -1,0 +1,25 @@
+{"city": "Chandler", "date": "2026-09-01", "temperature_max_c": 38.0, "temperature_min_c": 25.0, "precipitation_mm": 2.5}
+{"city": "Chandler", "date": "2026-09-02", "temperature_max_c": 38.3, "temperature_min_c": 25.2, "precipitation_mm": 0.0}
+{"city": "Chandler", "date": "2026-09-03", "temperature_max_c": 38.6, "temperature_min_c": 25.4, "precipitation_mm": 0.0}
+{"city": "Chandler", "date": "2026-09-04", "temperature_max_c": 38.9, "temperature_min_c": 25.6, "precipitation_mm": 2.5}
+{"city": "Chandler", "date": "2026-09-05", "temperature_max_c": 39.2, "temperature_min_c": 25.8, "precipitation_mm": 0.0}
+{"city": "Chandler", "date": "2026-09-06", "temperature_max_c": 39.5, "temperature_min_c": 26.0, "precipitation_mm": 0.0}
+{"city": "Chandler", "date": "2026-09-07", "temperature_max_c": 39.8, "temperature_min_c": 26.2, "precipitation_mm": 2.5}
+{"city": "Seattle", "date": "2026-09-01", "temperature_max_c": 22.0, "temperature_min_c": 14.0, "precipitation_mm": 2.5}
+{"city": "Seattle", "date": "2026-09-02", "temperature_max_c": 22.3, "temperature_min_c": 14.2, "precipitation_mm": 0.0}
+{"city": "Seattle", "date": "2026-09-03", "temperature_max_c": 22.6, "temperature_min_c": 14.4, "precipitation_mm": 0.0}
+{"city": "Seattle", "date": "2026-09-04", "temperature_max_c": 22.9, "temperature_min_c": 14.6, "precipitation_mm": 2.5}
+{"city": "Seattle", "date": "2026-09-05", "temperature_max_c": 23.2, "temperature_min_c": 14.8, "precipitation_mm": 0.0}
+{"city": "Seattle", "date": "2026-09-06", "temperature_max_c": 23.5, "temperature_min_c": 15.0, "precipitation_mm": 0.0}
+{"city": "Seattle", "date": "2026-09-07", "temperature_max_c": 23.8, "temperature_min_c": 15.2, "precipitation_mm": 2.5}
+{"city": "New York", "date": "2026-09-01", "temperature_max_c": 28.0, "temperature_min_c": 19.0, "precipitation_mm": 2.5}
+{"city": "New York", "date": "2026-09-02", "temperature_max_c": 28.3, "temperature_min_c": 19.2, "precipitation_mm": 0.0}
+{"city": "New York", "date": "2026-09-03", "temperature_max_c": 28.6, "temperature_min_c": 19.4, "precipitation_mm": 0.0}
+{"city": "New York", "date": "2026-09-04", "temperature_max_c": 28.9, "temperature_min_c": 19.6, "precipitation_mm": 2.5}
+{"city": "New York", "date": "2026-09-05", "temperature_max_c": 29.2, "temperature_min_c": 19.8, "precipitation_mm": 0.0}
+{"city": "New York", "date": "2026-09-06", "temperature_max_c": 29.5, "temperature_min_c": 20.0, "precipitation_mm": 0.0}
+{"city": "New York", "date": "2026-09-07", "temperature_max_c": 29.8, "temperature_min_c": 20.2, "precipitation_mm": 2.5}
+{"city": "Chandler", "date": "2026-09-01", "temperature_max_c": 38.0, "temperature_min_c": 25.0, "precipitation_mm": 2.5}
+{"city": null, "date": "2026-09-01", "temperature_max_c": 30.0, "temperature_min_c": 20.0, "precipitation_mm": 0.0}
+{"city": "Chandler", "date": "2026-09-08", "temperature_max_c": 20.0, "temperature_min_c": 30.0, "precipitation_mm": 0.0}
+{"city": "Seattle", "date": "not-a-date", "temperature_max_c": 22.0, "temperature_min_c": 14.0, "precipitation_mm": 0.0}
