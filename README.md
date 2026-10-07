@@ -1,10 +1,1 @@
-# GCP Weather Orchestration
-
-A learning project using Cloud Storage, Dataproc Serverless,
-BigQuery, and Cloud Composer.
-
-## Planned pipeline
-
-Sample weather data -> Cloud Storage -> Dataproc PySpark -> BigQuery
-
-Composer will orchestrate processing, validation, and summary queries.
+Built a batch weather analytics pipeline using Cloud Composer, Dataproc Serverless, Cloud Storage, and BigQuery. An Airflow DAG submits a PySpark job, validates the resulting table with SQL assertions, and creates city-level summaries. Tested the pipeline using 25 synthetic input records containing duplicates and invalid observations, producing 21 clean records.
